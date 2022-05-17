@@ -7,6 +7,11 @@ namespace core.start.service
 {
     public class Calculator
     {
+        public string timeStampLabel;
+        public string mrString;
+
+
+
         /// <summary>
         /// Флаг нажатия функции
         /// </summary>
